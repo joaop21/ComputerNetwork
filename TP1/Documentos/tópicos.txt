@@ -1,0 +1,18 @@
+Anonimização e Redes Escuras:
+1- Serviços para acesso à DarkWeb:
+	.Is the DarkWeb Anonymous?
+	. Why anonimyze activity?
+	. Government usage
+	- TOR
+	- FreeNet
+	- I2P
+
+2- Anonimização de browsers: (cookies, HTTPS e assim...)
+	. browsers oferecem anonimato
+	- Firefox
+	- Chrome
+	- VPN
+
+3- Debate de RGPD
+
+4- Introdução (R44101)
